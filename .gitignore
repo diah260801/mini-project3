@@ -1,0 +1,18 @@
+# Environment & System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Konfigurasi Lokal Pribadi
+config/database.php
+
+# Log files & Scratch
+*.log
+scratch/
+error_log
